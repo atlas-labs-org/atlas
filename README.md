@@ -61,7 +61,7 @@ reconfiguration. Edit at your own risk.
 - **Admins**
   - Hard-coded admins. Any other user (using :admin user) is a temporary admin. *(as of v1.3.2)*
 
-### That's it for the settings!
+***That's it for the settings!***
 
 ***
 
