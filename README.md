@@ -1,4 +1,11 @@
-<div align="center">
+> [!NOTE] 
+> 
+> Please be aware that this is an early-version system.
+> This can mean that there will be bugs, frequent patches, and more.
+>
+> We recommend enabling auto-updates to pull the latest version,
+> however we also recommend manually updating when major releases
+> are made. (Eg. 1.3.4 => 2.0.0)
 
 # JamarcusAdmin
 ### [MIT License](LICENSE)
