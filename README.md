@@ -1,3 +1,20 @@
+<div align="center">
+  <img src="https://i.ibb.co/YW5NjXS/Atlas-Logo.png" alt="Atlas Admin Logo" width="300"/>
+
+---
+
+# Atlas Admin
+### [MIT License](LICENSE)
+### Roblox Game Administration System
+### Developed and maintained by MochaTheDev (@mocha______, @Mocha_) and WakeTheTyrant (@wakethetyrant)
+
+---
+
+### [Wiki](https://github.com/MochaTheDev/atlas/wiki)
+
+---
+</div>
+
 > [!NOTE] 
 > 
 > Please be aware that this is an early-version system.
@@ -6,18 +23,6 @@
 > We recommend enabling auto-updates to pull the latest version,
 > however we also recommend manually updating when major releases
 > are made. (Eg. 1.3.4 => 2.0.0)
-
-# Atlas Admin
-### [MIT License](LICENSE)
-### Roblox Game Administration System
-### Developed and maintained by MochaTheDev (@mocha______, @Mocha_) and WakeTheTyrant (@wakethetyrant)
-
----
-### [Wiki](https://github.com/MochaTheDev/atlas/wiki)
-
-</div>
-
----
 
 ## <span style="color: #3498DB;">&#x1F4DA;</span> Installation Methods
 
@@ -52,7 +57,7 @@ After installation, follow these steps to set up Atlas Admin in your Roblox game
 
 Here's a quick explanation of the key settings you can configure:
 
-- **prefix**: Sets the command prefix. Default is ":". (e.g., `:kill`, `;kill`, `>kill`).
+- **prefix**: Sets the command prefix. Default is ":".
 - **datastore**: Set this to a random string for system logging, bans, etc.
 - **Server_Message_Header**: Change this to customize the server message header.
 - **debug**: Keep this `false` to prevent bypassing admin/override verification checks.
@@ -61,7 +66,7 @@ Here's a quick explanation of the key settings you can configure:
 - **auto_update**: Recommended to keep on. Ensures system automatically sources the latest version.
 - **component_verification**: Helps delete broken components and source the correct ones.
 - **banned_users**: Hard-banned users cannot be unbanned unless removed from this script.
-- **whitelist**: When enabled, players in this list are allowed access. Use `:whitelist` to enable or `:whitelist username` to add users.
+- **whitelist**: When enabled, players in this list are allowed access.
 - **Override**: Users in this section can run special commands and are immune to certain restrictions.
 - **Admins**: Hard-coded admins. Any other user (added with `:admin user`) is a temporary admin.
 
