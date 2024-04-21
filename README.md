@@ -6,7 +6,7 @@
 # Atlas Admin
 ### [MIT License](LICENSE)
 ### Roblox Game Administration System
-### Developed and maintained by MochaTheDev (@mocha______, @Mocha_) and WakeTheTyrant (@wakethetyrant)
+### Developed and maintained by [MochaTheDev](https://github.com/MochaTheDev) and [WakeTheTyrant](https://github.com/WakeTheTyrant)
 
 ---
 
