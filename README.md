@@ -7,13 +7,13 @@
 > however we also recommend manually updating when major releases
 > are made. (Eg. 1.3.4 => 2.0.0)
 
-# JamarcusAdmin
+# AtlasAdmin
 ### [MIT License](LICENSE)
 ### Roblox Game Administration System
 ### Developed and maintained by MochaTheDev (@mocha______, @Mocha_) and WakeTheTyrant (@wakethetyrant)
 
 ---
-### [Wiki](https://github.com/MochaTheDev/jamarcus_admin/wiki)
+### [Wiki](https://github.com/MochaTheDev/atlas/wiki)
 
 </div>
 
@@ -22,29 +22,29 @@
 ## <span style="color: #3498DB;">&#x1F4DA;</span> Installation Methods
 
 ### Option One: Roblox Asset (Recommended)
-You can install JamarcusAdmin from the Roblox Asset Store [here](https://create.roblox.com/store/asset/17166069350/JamarcusAdmin-v132).
+You can install Atlas Admin from the Roblox Asset Store [here](https://create.roblox.com/store/asset/17166069350/Atlas-Admin-v132).
 
 ### Option Two: GitHub
-Alternatively, you can download the latest version from GitHub as an `.rbxm` file [here](https://github.com/NickanatorYT/jamarcus_admin/releases/latest).
+Alternatively, you can download the latest version from GitHub as an `.rbxm` file [here](https://github.com/MochaTheDev/atlas/releases/latest).
 
 ---
 
 ## <span style="color: #2ECC71;">&#x1F527;</span> Setup Instructions
 
-After installation, follow these steps to set up JamarcusAdmin in your Roblox game:
+After installation, follow these steps to set up Atlas Admin in your Roblox game:
 
 1. **Placement**
-   - Place the "jamarcus_RepStg" folder into ReplicatedStorage.
-   - Place the "jamarcus_SrvScrptSrv" folder into ServerScriptService.
-   - Place the "jamarcus_StarterGui" folder into StarterGui.
+   - Place the "atlas_RepStg" folder into ReplicatedStorage.
+   - Place the "atlas_SrvScrptSrv" folder into ServerScriptService.
+   - Place the "atlas_StarterGui" folder into StarterGui.
 
 2. **Additional Tasks**
    - Delete the "AdminPart."
    - Delete this README script.
-   - Go to ReplicatedStorage -> jamarcus_RepStg -> Settings (ModuleScript) and configure settings as needed.
+   - Go to ReplicatedStorage -> atlas_RepStg -> Settings (ModuleScript) and configure settings as needed.
 
 3. **Notes**
-   - **Do Not Edit** `jamarcus_SrvScrptSrv -> jamarcus_CORE`. This contains the system's core code. Editing it can cause the system to fail, requiring a complete reinstallation and reconfiguration. Edit at your own risk.
+   - **Do Not Edit** `atlas_SrvScrptSrv -> atlas_CORE`. This contains the system's core code. Editing it can cause the system to fail, requiring a complete reinstallation and reconfiguration. Edit at your own risk.
 
 ---
 
