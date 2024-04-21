@@ -7,7 +7,7 @@
 > however we also recommend manually updating when major releases
 > are made. (Eg. 1.3.4 => 2.0.0)
 
-# AtlasAdmin
+# Atlas Admin
 ### [MIT License](LICENSE)
 ### Roblox Game Administration System
 ### Developed and maintained by MochaTheDev (@mocha______, @Mocha_) and WakeTheTyrant (@wakethetyrant)
