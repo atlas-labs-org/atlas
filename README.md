@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/PxrYBCt/Atlas-Logo.png" alt="Atlas Admin Logo" width="300"/>
+  <img src="https://i.ibb.co/0jcfxbz/Atlas-Logo.png" alt="Atlas Admin Logo" width="300"/>
 
 ---
 
