@@ -24,13 +24,10 @@
 > however we also recommend manually updating when major releases
 > are made. (Eg. 1.3.4 => 2.0.0)
 
-## <span style="color: #3498DB;">&#x1F4DA;</span> Installation Methods
+## <span style="color: #3498DB;">&#x1F4DA;</span> Installation
 
-### Option One: Roblox Asset (Recommended)
-You can install Atlas Admin from the Roblox Asset Store [here](https://create.roblox.com/store/asset/17166069350/Atlas-Admin-v132).
-
-### Option Two: GitHub
-Alternatively, you can download the latest version from GitHub as an `.rbxm` file [here](https://github.com/MochaTheDev/atlas/releases/latest).
+### Roblox Asset (Recommended)
+You can install Atlas Admin from the Roblox Asset Store [here](https://create.roblox.com/store/asset/17166069350/Atlas-Admin).
 
 ---
 
