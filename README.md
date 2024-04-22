@@ -36,17 +36,13 @@ You can install Atlas Admin from the Roblox Asset Store [here](https://create.ro
 After installation, follow these steps to set up Atlas Admin in your Roblox game:
 
 1. **Placement**
-   - Place the "atlas_RepStg" folder into ReplicatedStorage.
-   - Place the "atlas_SrvScrptSrv" folder into ServerScriptService.
-   - Place the "atlas_StarterGui" folder into StarterGui.
+   - Place the Atlas_Loader into the Workspace.
 
 2. **Additional Tasks**
-   - Delete the "AdminPart."
-   - Delete this README script.
-   - Go to ReplicatedStorage -> atlas_RepStg -> Settings (ModuleScript) and configure settings as needed.
+  - Read the README script, as well as customizing settings under Atlas_Loader.
 
 3. **Notes**
-   - **Do Not Edit** `atlas_SrvScrptSrv -> atlas_CORE`. This contains the system's core code. Editing it can cause the system to fail, requiring a complete reinstallation and reconfiguration. Edit at your own risk.
+   - **Do Not Edit** `Atlas_Loader => Loader_f => loader`!!
 
 ---
 
@@ -60,7 +56,7 @@ Here's a quick explanation of the key settings you can configure:
 - **debug**: Keep this `false` to prevent bypassing admin/override verification checks.
 - **fun_commands**: Enable fun commands like `:sit`, `:jump`, etc.
 - **plugins_enabled**: Set to `true` to enable custom plugins (see Plugins section).
-- **auto_update**: Recommended to keep on. Ensures system automatically sources the latest version.
+- **developer_metrics**: Sends us, the developers, metrics regarding the system and helps us track unique games the system's used in.
 - **component_verification**: Helps delete broken components and source the correct ones.
 - **banned_users**: Hard-banned users cannot be unbanned unless removed from this script.
 - **whitelist**: When enabled, players in this list are allowed access.
