@@ -26,8 +26,11 @@
 
 ## <span style="color: #3498DB;">&#x1F4DA;</span> Installation
 
-### Roblox Asset (Recommended)
+### Option 1: Roblox Asset (Recommended)
 You can install Atlas Admin from the Roblox Asset Store [here](https://create.roblox.com/store/asset/17166069350/Atlas-Admin).
+
+### Option 2: GitHub
+You can install the loader file from GitHub [here](https://github.com/MochaTheDev/atlas/releases/latest)
 
 ---
 
