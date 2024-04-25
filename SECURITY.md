@@ -1,12 +1,12 @@
-# <span style="color: #4CAF50;">&#x1F512;</span> Security Policy: Jamarcus Admin System
+# <span style="color: #4CAF50;">&#x1F512;</span> Security Policy: Atlas Admin Framework
 
 ## 1. Introduction
-This policy outlines the procedures for addressing and reporting security vulnerabilities in the Jamarcus Admin System.
+This policy outlines the procedures for addressing and reporting security vulnerabilities in the Atlas Admin System.
 
 ---
 
 ## 2. Supported Versions
-The following table shows the versions of the Jamarcus Admin System that are currently supported with security updates. This policy ensures that users are aware of which versions are maintained and should be used in production environments.
+The following table shows the versions of the Atlas Admin System that are currently supported with security updates. This policy ensures that users are aware of which versions are maintained and should be used in production environments.
 
 <table>
   <tr>
@@ -30,10 +30,10 @@ The following table shows the versions of the Jamarcus Admin System that are cur
 ---
 
 ## 3. Reporting a Vulnerability
-If you discover a security vulnerability in the Jamarcus Admin System, please report it to us as soon as possible. Here's what you need to know:
+If you discover a security vulnerability in the Atlas Admin System, please report it to us as soon as possible. Here's what you need to know:
 
 <ul>
-  <li><strong>Where to Report:</strong> Submit all security vulnerability reports to our <a href="https://github.com/MochaTheDev/jamarcus_admin/security/advisories/new">&#x1F4E7; vulnerabilities page</a>.</li>
+  <li><strong>Where to Report:</strong> Submit all security vulnerability reports to our <a href="https://github.com/MochaTheDev/Atlas_admin/security/advisories/new">&#x1F4E7; vulnerabilities page</a>.</li>
   <li><strong>Information to Include:</strong> Describe the vulnerability in detail, including steps to reproduce it, affected components, and potential impact. Attach screenshots or proof-of-concept code if possible.</li>
   <li><strong>Response Time:</strong> We aim to acknowledge receipt of your report within 24 hours. You can expect an initial response within 48 hours.</li>
   <li><strong>Follow-up Updates:</strong> We will provide weekly updates on the status of the reported vulnerability until it is resolved. If the report requires further investigation, we'll let you know.</li>
@@ -56,4 +56,4 @@ When we receive a security vulnerability report, we will:
 ---
 
 ## 5. Conclusion
-The security of the Jamarcus Admin System is a priority, and we appreciate your assistance in making our system safer. If you have any questions about this policy or other security concerns, please contact us on our Discord <a href="https://discord.gg/yhTNzJre76">&#x1F4AC;</a>.
+The security of the Atlas Admin System is a priority, and we appreciate your assistance in making our system safer. If you have any questions about this policy or other security concerns, please contact us on our Discord <a href="https://discord.gg/yhTNzJre76">&#x1F4AC;</a>.
